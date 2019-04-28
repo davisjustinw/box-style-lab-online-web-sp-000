@@ -8,6 +8,10 @@ body, html {
   
 }
 
+body {
+  background-image: "./images/white-wood.jpg";
+}
+
 
 .container, h1 {
   width: 80%;
