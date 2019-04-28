@@ -34,7 +34,7 @@ h4 {
 }
 
 h4.amiable {
-  background: linear-gradient(to right, #22aa44, #55dd77 )
+  background: linear-gradient(to right, #119933, #55dd77 )
 }
 
 .indifferent {
@@ -44,7 +44,7 @@ h4.amiable {
 }
 
 h4.indifferent {
-  background: linear-gradient(to right, #cccc11, #eeee33)
+  background: linear-gradient(to right, #bbbb00, #eeee33)
 }
 
 .dubious {
@@ -54,7 +54,7 @@ h4.indifferent {
 }
 
 h4.dubious {
-  background: linear-gradient(to right, #cc3333,#ee5555)
+  background: linear-gradient(to right, #bb2222,#ee5555)
 }
 
 .column {
