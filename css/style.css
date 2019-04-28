@@ -49,20 +49,17 @@ h4 {
 
 .small {
   border: 1px solid black;
-  margin: 5px;
   width: 95%;
   height: 95%;
 }
 
 .med {
   border: 1px solid black;
-  margin: 5px;
   width: 190%;
 }
 
 .large {
   border: 1px solid black;
-  margin: 5px;
   width: 285%;
 }
 
